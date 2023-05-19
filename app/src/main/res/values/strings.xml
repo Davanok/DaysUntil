@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DaysUntil</string>
+    <string name="add_date">Add date</string>
+    <string name="period">Days until: %1$d</string>
+    <string name="dateName">Date Name</string>
+    <string name="date">Date</string>
+    <string name="cancel">Cancel</string>
+    <string name="OK" translatable="false">OK</string>
+    <string name="pick">Pick</string>
+    <string name="delete">Delete</string>
+    <string name="repeat">Repeat</string>
+    <string-array name="repeat_every">
+        <item>Week</item>
+        <item>Month</item>
+        <item>Year</item>
+    </string-array>
+</resources>
